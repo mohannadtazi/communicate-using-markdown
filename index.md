@@ -5,3 +5,7 @@ This is a normal text
 ###### This is H6 the smallest title
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
